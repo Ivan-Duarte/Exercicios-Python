@@ -8,5 +8,4 @@ print ("Esse é o Quociente da Divisão",div)
 rest=N1%N2
 print ("Esse é o Resto da Divisão",rest)
 
-
 #Pronto
