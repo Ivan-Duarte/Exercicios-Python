@@ -1,3 +1,5 @@
+#Exemplo de como utilizar funções no Python
+
 def area(x,y):
     resultado = (x*y)
     return resultado
