@@ -7,8 +7,6 @@
 #sombra
 #alturapredio
 
-
-
 altpessoa=float(input(" Coloque sua altura "))
 smbrpessoa=altpessoa*2.17
 smbrpredio=float(input(" Coloque a altura do Prédio "))
