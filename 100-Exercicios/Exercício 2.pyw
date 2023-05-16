@@ -1,4 +1,5 @@
 #Dado o tamanho do lado de um quadrado, calcular a área e o perímetro do mesmo
+
 lado=(float (input(" Coloque o lado do Quadrado ")))
 area=lado*lado
 perimetro=(lado*2)+(lado*2)
